@@ -17,11 +17,13 @@ A **Java-based** implementation of **Seam Carving**, a content-aware image resiz
 ### **🔹 Original Image**  
 ![Original](input.jpg)
 
+### **🔹 Energy Map Visualization**  
+![Energy Map](energy_map.png)
+
 ### **🔹 Seam Carved Image**  
 ![Seam Carved](output.jpg)
 
-### **🔹 Energy Map Visualization**  
-![Energy Map](energy_map.png)
+
 
 ---
 
