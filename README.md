@@ -12,7 +12,7 @@ A **Java-based** implementation of **Seam Carving**, a content-aware image resiz
 
 ---
 
-## 🖼️ Screenshots  
+## Screenshots  
 
 ### **🔹 Original Image**  
 ![Original vs Seam Carved](images/seam_carving_result.png)
