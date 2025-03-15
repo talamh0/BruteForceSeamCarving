@@ -15,13 +15,13 @@ A **Java-based** implementation of **Seam Carving**, a content-aware image resiz
 ## Screenshots  
 
 ### **🔹 Original Image**  
-![Original vs Seam Carved](images/seam_carving_result.png)
+![Original](input.jpg)
 
 ### **🔹 Seam Carved Image**  
-![Energy Map](images/energy_map.png)
+![Seam Carved](output.jpg)
 
 ### **🔹 Energy Map Visualization**  
-![Energy Map](images/energy_map.png)
+![Energy Map](energy_map.png)
 
 ---
 
