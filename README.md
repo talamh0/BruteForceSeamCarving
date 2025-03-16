@@ -1,4 +1,4 @@
-# 📸 Brute-Force Seam Carving  
+#  Brute-Force Seam Carving  
 
 A **Java-based** implementation of **Seam Carving**, a content-aware image resizing algorithm. This project removes vertical seams with the **lowest energy** to reduce image width while preserving important content.
 
